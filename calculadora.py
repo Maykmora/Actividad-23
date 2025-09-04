@@ -38,4 +38,5 @@ boton_restar= tk.Button(ventana, text="Restar", command=restar)
 boton_restar.pack(pady=5)
 boton_multiplicar=tk.Button(ventana, text="Multiplicar", command=multiplicar)
 boton_multiplicar.pack(pady=5)
+
 ventana.mainloop()
